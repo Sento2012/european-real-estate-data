@@ -1,0 +1,36 @@
+country,city,listings,median_price_eur,median_price_m2_eur,avg_size_m2
+France,Bordeaux,2459,83000,3895,29
+France,Lille,2479,76500,3666,24
+France,Lyon,22326,145000,4368,48
+France,Marseille,39567,99900,2400,46
+France,Montpellier,2431,59800,2619,31
+France,Nantes,2476,66638,3438,23
+France,Nice,2370,65000,3409,27
+France,Paris,47720,160000,11000,18
+France,Strasbourg,2461,69000,2500,29
+France,Toulouse,726,41000,1647,40
+Germany,Berlin,690,449500,4800,121
+Germany,Cologne,129,439000,4554,121
+Germany,Dresden,51,199000,2773,119
+Germany,Düsseldorf,87,640900,5161,150
+Germany,Frankfurt,96,505000,6172,104
+Germany,Hamburg,353,672040,5554,131
+Germany,Leipzig,84,297500,3294,114
+Germany,Munich,335,709000,9096,95
+Germany,Nuremberg,206,586000,4304,127
+Germany,Stuttgart,90,396757,4925,103
+Spain,Alicante,4115,288000,2586,243
+Spain,Barcelona,42479,390000,4090,168
+Spain,Bilbao,2593,360000,3932,106
+Spain,Madrid,275267,250000,3318,204
+Spain,Malaga,20753,419000,3574,298
+Spain,Palma,8593,750000,5280,424
+Spain,San Sebastian,598,695000,6580,153
+Spain,Sevilla,15990,250000,2177,331
+Spain,Valencia,18652,249900,1953,250
+Spain,Zaragoza,3451,226000,2266,399
+United Kingdom,Birmingham,721,240000,,
+United Kingdom,Edinburgh,347,299995,,
+United Kingdom,Glasgow,510,199000,,
+United Kingdom,Leeds,704,259950,,
+United Kingdom,Manchester,865,240000,,
